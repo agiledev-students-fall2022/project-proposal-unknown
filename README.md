@@ -1,5 +1,5 @@
 # Project Proposal
-**Project Name :**  <br>
+**Project Name :**  Stranger<br>
 **Team Members :** Tianhao Gu, Youyu Zhu
 
 ## Inspiration \& Expectation
