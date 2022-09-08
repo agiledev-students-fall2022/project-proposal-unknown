@@ -1,5 +1,5 @@
 # Project Proposal
-**Project Name :**  Stranger<br>
+**Project Name :**  Stranger (tentative)<br>
 **Team Members :** Tianhao Gu, Youyu Zhu
 
 ## Inspiration \& Expectation
@@ -25,8 +25,8 @@ This app does not have a specific group of target users. Anyone who is willing t
 - Timing (Daily / Every time you need a cheerup)
 - Subscribing (Login / By Email)
 - Sending 
-- Sharing
+- Sharing (via social media)
 
 
 ## Scope
-The project is front-end based, with the back-end storing all the users and sentense we got. Expecting a team of size 4-5 since we wnat to make the app tiny but elegent and funtional.
+The project is front-end based, with the back-end storing all the user information and messages we got. Beyond, automatic email subscription and connections to third-party apps need to be implemented. Expecting a team of size 4-5 since we wnat to make the app tiny but elegent and funtional.
