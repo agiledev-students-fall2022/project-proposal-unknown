@@ -1,3 +1,30 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8391342&assignment_repo_type=AssignmentRepo)
 # Project Proposal
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+**Project Name :**  <br>
+**Team Members :** Tianhao Gu, 
+
+## Inspiration \& Expectation
+> ❤ Faith in Humanity... Restored.❤ 
+>
+> -- <cite>USER.NAME, May 11. 2020 (Steam Comment)</cite>
+
+This is a comment of game [*Kind Words*](https://steamcommunity.com/app/1070710), in which 'players' can write nice letters to real people. The concept deeply impressed our team. 
+Inspried by which, we plan to build **a web application that collects and shares kind words**. 
+A user can receive and share one message every day. The message can be a small paragraph, a quote, a simple line, or even a single word. 
+
+Everyone faces a lot of pressure every day, from schools or the workplace. One never stops, and cannot stop despite all kinds of frustrations and difficulties. We would like to build a cyber-sanctuary for each and every individual, infusing positive power and spreading kindness to the world.
+
+<br>
+
+## Target User
+This application targets at young people, mainly the aged bracket between 15 to 35, who have the habit of using social media and embraces kindness. 
+
+## Funtionalities
+- Daily Message\* (Receiving)
+- Timing
+- Subscribing (By Email)
+- Sending
+- Sharing
+
+
+## Scope
+
